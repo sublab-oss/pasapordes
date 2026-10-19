@@ -1,4 +1,4 @@
-const firebaseConfig = {
+window.DES_FIREBASE_CONFIG = {
   apiKey: "AIzaSyBvGmyKiD0vSfAw42XCa454KbsYIONOLPA",
   authDomain: "pasapordes.firebaseapp.com",
   projectId: "pasapordes",
